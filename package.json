@@ -1,0 +1,23 @@
+{
+  "name": "laba_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^14.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1qa4y/SSP_4.git"
+  },
+  "author": "Nikita Kharuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1qa4y/SSP_4/issues"
+  },
+  "homepage": "https://github.com/n1qa4y/SSP_4#readme"
+}
